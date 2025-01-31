@@ -1,5 +1,5 @@
 # Blockchain-SMART-CONTRACT-FOR-LAND-REGISTERIY
-Smart Contract for Land Registry
+#Smart Contract for Land Registry
 Description:-
 This project implements a decentralized land registry system using Ethereum smart contracts written in Solidity. The objective is to enhance transparency, security, and efficiency in property transactions by leveraging blockchain technology.
 Features:-
